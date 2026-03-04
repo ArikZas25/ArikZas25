@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I’m currently learning the latest front-end frameworks, and deep learning algorithms.
+- I’m currently learning about deep learning algorithms.
 
 
 ## 🌐 Socials:
