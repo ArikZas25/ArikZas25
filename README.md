@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArikZas25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![Arik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArikZas25&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArikZas25&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### ✍️ Random Dev Quote
