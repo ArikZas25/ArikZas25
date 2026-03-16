@@ -30,6 +30,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ArikZas25&theme=dark&hide_border=false)<br/>
 
 ---
+# 📊 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArikZas25&theme=radical&no-frame=true&margin-w=4)
