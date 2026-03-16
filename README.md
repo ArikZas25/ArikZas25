@@ -31,7 +31,7 @@
 
 ---
 
-# 📊 LeetCode Stats:
+# 📊 LeetCode Stats: (working on it )
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ArikZas?theme=dark&font=baloo)
 
 ---
