@@ -1,21 +1,11 @@
-# 💫 About Me:
-- 🎓 BSc student in **Data Science & AI**
-- 🕹️ Game dev on the side — shipped a C++ console game that scored **100/100**
-- 🤖 Currently diving into **deep learning algorithms**
-- 🌸 Also build real-world web projects for clients
+# About Me:
+- BSc student in **Data Science & AI**
+- Game dev on the side — shipped a C++ console game that scored **100/100**
+- Currently diving into **deep learning algorithms**
+- Also build real-world web projects for clients
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arik_zaslavski) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arik-zaslavski-70a412273/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Arik2510@gmail.com)
-
----
-
-## 🚀 Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 🎮 [KeyBound](https://github.com/ArikZas25/KeyBound) | Console game — scored **100/100** | C++ |
-| 🏀 [Dunking Ball](https://github.com/ArikZas25/DunkingBall) | Mobile basketball game | Unity / C# |
-| 🌸 [Liav Pure Glow](https://arikzas25.github.io/liav_pure_glow/) | Cosmetics website for a real client | HTML / CSS / JS |
 
 ---
 
@@ -25,7 +15,6 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ArikZas25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ArikZas25&theme=dark&hide_border=false)<br/>
 
 ---
